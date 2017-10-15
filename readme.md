@@ -3,7 +3,7 @@
 <details>
   <summary><b> Show Messages </b></summary>
   
-  Returns json data about a single user.
+  Returns all messages.
   ----
 
 * **URL**
