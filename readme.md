@@ -82,7 +82,7 @@
 <details>
   <summary><b> Find Email </b></summary>
   
-  Search for messages based on email adress(Exact Match Required).
+  Search for messages based on email adress(exact match required).
   ----
 
 * **URL**
@@ -117,7 +117,7 @@
 <details>
   <summary><b> Find Text </b></summary>
   
-  Search for messages based on text.Searches the subject or the body of messages.
+  Searches the subject or the body of messages.
   ----
 
 * **URL**
