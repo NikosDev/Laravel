@@ -1,4 +1,4 @@
-#REST API Documentation
+## REST API Documentation
 
 <details>
   <summary><b> Show Messages </b></summary>
