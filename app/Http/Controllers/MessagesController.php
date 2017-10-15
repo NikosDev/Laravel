@@ -23,7 +23,7 @@ class MessagesController extends Controller
     //Store Messages in database
     public function store(Request $request){
         $validator= Validator::make($request->all(), [
-            'email'=> 'required',
+            'email'=> 'required|email',
             'name'=> 'required',
             'subject'=> 'required',
             'body'=> 'required',
